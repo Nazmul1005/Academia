@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24735275/README.md)
+
 # 🎓 Academia - Learning Management System
 
 A comprehensive web-based Learning Management System (LMS) built with Java, JSP, and MySQL. Academia provides a complete platform for managing courses, users, and enrollment with role-based dashboards for administrators, teachers, and students.
